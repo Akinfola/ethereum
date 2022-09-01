@@ -162,7 +162,7 @@ a{text-decoration: none;}
 
 .card-author .author-img img{
     border:1px solid var(--White);
-    border-radius: 50%;
+    border-radius: 90%;
 }
 
 .card-author .author-details{
